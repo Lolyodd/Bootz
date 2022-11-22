@@ -77,14 +77,14 @@ buttons = [
 
 # Will move to strings
 alive_txt = """
-The Ultroid Userbot
+BootyBot Userbot
 
   ◍ Version - {}
   ◍ Py-Ultroid - {}
   ◍ Telethon - {}
 """
 
-in_alive = "{}\n\n🌀 <b>Ultroid Version -><b> <code>{}</code>\n🌀 <b>PyUltroid -></b> <code>{}</code>\n🌀 <b>Python -></b> <code>{}</code>\n🌀 <b>Uptime -></b> <code>{}</code>\n🌀 <b>Branch -></b> [ {} ]\n\n• <b>Join @TeamUltroid</b>"
+in_alive = "{}\n\n➡️ <b>BootyBot Version -><b> <code>{}</code>\n➡️ <b>PyUltroid -></b> <code>{}</code>\n➡️ <b>Python -></b> <code>{}</code>\n➡️ <b>Uptime -></b> <code>{}</code>\n➡️ <b>Branch -></b> [ {} ]\n\n⚠️ <b>Join @TeamUltroid</b>⚠️"
 
 
 @callback("alive")
